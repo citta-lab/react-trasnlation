@@ -1,5 +1,7 @@
 module.exports = {
     'en-US': {
-        greeting: 'Learn React!!'
+        greeting: 'Learn React!!',
+        click: 'Click Me',
+        title: 'Magic'
     }
 }
